@@ -7,9 +7,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2WEQjr52JuDw8e6lKq3qoGu6kwm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +23,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/nguyenlinhcanh/Desktop/javaProjject/LabJava_1",
     "vue.rearranger.settings.migration": "true"
   }
@@ -33,6 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696295399974</updated>
       <workItem from="1696295403422" duration="34000" />
+      <workItem from="1696296438666" duration="6000" />
     </task>
     <servers />
   </component>
